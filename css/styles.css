@@ -10983,6 +10983,9 @@ html {
 .masthead .masthead-avatar {
   width: 15rem;
 }
+.logo {
+  width: 5rem;
+}
 
 @media (min-width: 992px) {
   .masthead {
