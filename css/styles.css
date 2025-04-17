@@ -604,7 +604,10 @@ progress {
   max-width: 100%;
   height: auto;
 }
-
+.img-fluida {
+  max-width: 20%;
+  height: auto;
+}
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
